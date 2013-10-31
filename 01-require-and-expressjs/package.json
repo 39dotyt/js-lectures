@@ -1,0 +1,8 @@
+{
+  "name": "01-require-and-expressjs",
+  "version": "0.0.1",
+  "description": "Simple node.js program, which demonstrates how require and express.js works",
+  "dependencies": {
+    "express": "~3.4.4"
+  }
+}
